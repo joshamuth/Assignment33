@@ -27,6 +27,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/private-music/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diamond-eyes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/white-pony/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/around-the-fur/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gore/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
